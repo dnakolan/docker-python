@@ -10,4 +10,5 @@ Iterating on the docker-python language guide
 ![Stars](https://img.shields.io/github/stars/dnakolan/docker-python)
 ![License](https://img.shields.io/github/license/dnakolan/docker-python)
 
-A project I'm working on to hone my python developmen skills.
+A project I'm working on to hone my python developmen skills. This is based on the public tutorial on
+this [website](https://docs.docker.com/language/python/)
