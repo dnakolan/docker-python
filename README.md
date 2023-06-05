@@ -23,5 +23,5 @@ running on your local machine to build and run these images as per the tutorial 
 
 # How to run after building
     ```bash
-    docker run -d -p 8000:5000 docker-python
+    docker compose -f docker-compose-dev.yml up --build
     ```
